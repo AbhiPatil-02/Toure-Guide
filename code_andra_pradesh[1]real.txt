@@ -1,0 +1,213 @@
+data = {
+    "amareshwara":{
+                  "place":"amareshwara temple",
+                  "state":"Andra Pradesh",
+                  "places":--,
+                  "hotels":--,
+                  "detials":"Amararama is one of the five Pancharama Kshetras that are sacred to the Hindu god Siva. The temple is located in Amaravathi town of Palnadu district in the Indian state of Andhra Pradesh. Amareswara Swamy or Amaralingeswara Swamy refers to Lord Shiva in this temple. The temple is situated on the southern bank of Krishna River. The consort of Lord Amareswara Swamy is Bala Chamundika. The Sivalinga at this place is installed and established by Lord Indra.\n
+Vasireddy Venkatadri Naidu, King of Chintapalli and later Dharanikota, was a great devotee of Amareswara. He expanded and renovated the temple. The popular legend has it that once during the course of putting down a rebellion in his land the King had to have recourse to a massacre of the Chenchus, whereupon he lost his mental peace, which he regained only when he came to Amaravati. He shifted his place from Chintapalli to Amaravati in 1796, and devoted his entire life, time and revenues to building temples for Lord Siva./n
+He renovated the Amareswaraswamy temple here, engaged nine learned archakas for the daily archana of the Lord, and provided them with all the needs of livelihood, including 12 acres (49,000 m2) of land to each. The temple as it stands owes much to him. 
+As per Legend, the demon king named Tarakasura defeated the gods after being awarded a boon by Lord Shiva. Shiva vowed to kill the demons and hence the gods came to reside here and since then the place came to be called Amaravati. Lord Shiva is worshipped as Amareswara with his consort Bala Chamundika, who is considered as the fourth of the 18 goddesses. srikrishnadevaraya had visited this temple after the war of kodapalli"
+     },
+     "malleshwari":{
+                   "place":"kanaka durga temple",
+                   "state":"Andra Pradesh",
+                   "places":--,
+                   "hotels":--,
+                   "detials":"Kanaka Durga Temple, also known as Sri Kanaka Durgamma Devasthanam, is a Hindu temple dedicated to Kanaka Durga. The deity in this temple is also popularly referred as Kanaka Durga.\n
+The temple is located in Vijayawada, Andhra Pradesh, India on the Indrakeeladri Hills on the banks of Krishna River. Kaalika Purana, Durgaa Sapthashati and other Vedic literature have mentioned about Kanaka Durga on the Indrakeelaadri and have described the deity as Swayambhu, (self-manifested) in Triteeya Kalpa.\n
+The popular legend is about the triumph of Kanaka Durga over the demon King Mahishasura. It is said that the growing menace of demons became unbearable for the natives. Sage Indrakila practiced severe penance, and when the goddess appeared the sage pleaded to her to reside on his head and keep a vigil on the wicked demons. As per his wishes of killing the demons, Durga made Indrakila her permanent abode. Later, she also slayed the demon king Mahishasura freeing the people of Vijayawada from evil.\n
+At the Kanakadurga temple, the enchanting 4-foot-high (1.2 m) icon of the deity is bedecked in glittering ornaments and bright flowers. Her icon here depicts her eight-armed form, each holding a powerful weapon, in a standing posture over the demon Mahishashura and piercing him with her trident. The goddess is the epitome of beauty.\n
+Kanaka Durga Temple is synonymous with Vijayawada. It is mentioned in the sacred texts.  View of Temple Complex from Prakasam Barrage A nearby temple viewed from Prakasam Barrage on night lights
+It is mentioned in the Hindu scriptures that the deity in the Sri Kanaka Durgamma Devasthanam is regarded as Swayambhu or self-manifested, hence considered very powerful.\n
+During the month of Sraavanam, Varalakshmi Vratam is performed on all Fridays with special reverence. More than 20,000 people attends the celebrations during this month.\n
+During the month of Sraavanam, Varalakshmi Vratam is performed on all Fridays with special reverence. More than 20,000 people attends the celebrations during this month.
+                   "near by hotels":"hotel sk riverfront\npanchavati residency\nhotel manorama\nred fox hotel\nhotel rn grand"
+    },
+    "nagarjun":{
+                   "place":"nagarjun sagar dam",
+                   "state":"Andra Pradesh",
+                   "places":--,
+                   "hotels":--,
+                   "detials":"The Nizam made the British engineers begin the survey work for this dam across the Krishna River in the year 1903.\n
+The project's construction was officially inaugurated by Prime Minister Jawaharlal Nehru on 10 December 1955 and proceeded for the next twelve years. Raja Vasireddy Ramagopala Krishna Maheswara Prasad, popularly known as the late Muktyala Raja, was instrumental in the construction of the Nagarjuna Sagar Dam through active political lobbying and the donation of one hundred and ten million GBP in 1952.\n
+22,000 ha (55,000 acres) of land. It was the tallest masonry dam in the world at that time, built entirely with local know-how under the engineering leadership of Kanuri Lakshmana Rao.\n
+The reservoir water was released into the left and right bank canals by Prime Minister Indira Gandhi on 4 August 1967. Construction of the hydroelectric power plant followed, with power generation increasing between 1978 and 1985 as additional units came into service. In 2015, the diamond jubilee celebrations of the project's inauguration were held, alluding to the prosperity the dam has ushered into the region.\n
+The construction of the dam submerged an ancient Buddhist settlement, Nagarjunakonda, which was the capital of the Ikshvaku dynasty in the 1st and 2nd centuries and the successors of the Satavahanas in the Eastern Deccan. Excavations yielded 30 Buddhist monasteries as well as artwork and inscriptions of historical importance. Prior to the reservoir's flooding, monuments were dug up and relocated. Some were moved to Nagarjunakonda, now an island in the middle of the reservoir. Others were moved to the nearby mainland village of Anupu.\n
+The site of the dam was selected in 2022 to be developed as part of the UDAN scheme. The selection calls for the development of a water aerodrome at the site.
+   },
+   "stupa":{
+                  "place":"the stupa",
+                  "state":"Andra Pradesh",
+                  "places":--,
+                  "hotels":--,
+                  "detials":"The stupa, or mahāchetiya, was possibly founded in the third century BCE in the time of Asoka but there is no decisive evidence for the date of foundation. The earliest inscription from the site belongs to the early centuries BCE but it cannot be assigned to Aśoka with certainty. The earliest phase from which we have architectural or sculpted remains seems to be post-Mauryan, from the 2nd century BCE.\n
+The main construction phases of Amaravati fall in two main periods, with the stupa enlarged in the second by additions to the main solid earth mound, faced with brick, consisting of railings (vedikā) and carved slabs placed around the stūpa proper. As elsewhere these slabs are usually called 'drum slabs' because they were placed round the vertical lower part or "drum" (tholobate) of the stūpa.\n
+In the early period (circa 200-100 BCE), the stūpa had a simple railing consisting of granite pillars, with plain cross-bars, and coping stones. The coping stones with youths and animal reliefs, the early drum slabs, and some other early fragments belong to this period. The stūpa must have been fairly large at this time, considering the size of the granite pillars (some of which are still seen in situ, following excavations).\n
+Reconstruction of the Amaravati Stupa, by or after Sir Walter Elliott 1845. 
+The late period of construction started around ca. 50 BCE and continued until circa 250 CE. The exterior surfaces of the stupa and the railings were in effect all new, with the old elements reused or discarded. James Burgess in his book of 1887 on the site.\n
+During the period of the decline of Buddhism in India, the stupa was neglected and was buried under rubble and grass. A 14th-century inscription in Sri Lanka mentions repairs made to the stupa, and after that it was forgotten. The stupa is related to the Vajrayana teachings of Kalachakra, still practiced today in Tibetan Buddhism.[24] The Dalai Lama of Tibet conducted a Kalachakra initiation at this location in 2006, attended by over 100,000 pilgrims.
+   },
+   "hanging_pillar":{
+                   "place":"lepakshi hanging pillar",
+                   "state":"Andra Pradesh",
+                   "places":--,
+                   "hotels":--,
+                   "details":"The Lepakshi Temple is world famous for one exclusive engineering marvel- the Lepakshi Hanging Pillar. The temple has total 70 beautifully carved stone pillars.\n
+The Archaeological Survey of India has done research on the Lepakshi Hanging Pillar and has proved that the construction of the pillar was not a mistake and imperfection.\n
+On the other hand, it was the reflection of the engineering excellence and architectural brilliance of the designers, builders and sculptors of the ancient era. One of them is hanging and it does not touch the ground.  There is some space between the base of the pillar and the ground. A piece of cloth or paper can be passed from below this pillar. The pillar is said to be in the hall where the reception ceremony of Shiva and Parvati’s marriage took place.
+   },
+   "jatayu":{
+                   "place":"jatayu earth center",
+                   "state":"Andra Pradesh",
+                   "places":--,
+                   "hotels":--,
+                   "detials":"Jatayu Earth Center, also known as Jatayu Nature Park or Jatayu Rock, is a park and tourism centre at Chadayamangalam in Kollam district of Kerala, India.\n
+It stands at an altitude of 350m (1200ft) above the mean sea level. Jatayu Nature Park holds the distinction of having the world’s largest bird sculpture, which is of Jatayu.\n
+The sculpture measures 200 feet (61 m) long, 150 feet (46 m) wide, 70 feet (21 m) in height and occupies 15,000 square feet (1,400 m2) of floor area). It was sculpted by Rajiv Anchal. 
+This rock-theme nature park was the first Public–private partnership tourism initiative in the state of Kerala under the BOT model. The park is about 38 km (24 mi) away from the city of Kollam and 46 km (29 mi) away from the state capital, Thiruvananthapuram.\n
+The park located near the town of Chadayamangalam (Jatayumangalam), which was named for Jatayu. Jatayu was a demi-god in Ramayana (a Hindu epic) who had the form of a vulture.According to the epic, Ravana was attempting to abduct Sita to Lanka when Jatayu tried to rescue her. Jatayu fought valiantly with Ravana, but as Jatayu was very old Ravana soon defeated him, clipping his wings, and Jatayu fell onto the rocks in Chadayamangalam.\n
+Rama and Lakshmana while on the search for Sita, chanced upon the stricken and dying Jatayu, who informed them of the battle with Ravana and told them that Ravana had headed South.
+   },
+   "lepakshi_veerabhadra":{
+                   "place":"lepakshi veerabhadra temple",
+                   "state":"Andra Pradesh",
+                   "places":--,
+                   "hotels":--,
+                   "detials":"Veerabhadra temple is a Hindu temple located in the Lepakshi, in the state of Andhra Pradesh, India. The temple is dedicated to the Virabhadra, a fierce incarnation of Lord Shiva. Built in the 16th century, the architectural features of the temple are in the Vijayanagara style with profusion of carvings and paintings at almost every exposed surface of the temple. It is one of the centrally protected monuments of national importance and is considered one of the most spectacular Vijayanagara temples.\n
+The fresco paintings are particularly detailed in very bright dresses and colours with scenes of Rama and Krishna from the epic stories of the Ramayana, the Mahabharata and the Puranas and they are well preserved.\n
+There is a very large Nandi (bull), mount of Shiva, about 200 metres (660 ft) away from the temple which is carved from a single block of stone, which is said to be one of the largest of its type in the world. The temple is home to many Kannada inscriptions as its located close to Karnataka border.\n
+The temple is built in the Vijayanagara architechtural style and segregated into three parts, with an assembly hall, an ante chamber and a Sanctum Sanctorum. Two enclosures encircle the temple and the outer walled enclosure has three gates. A hall full of sculptures and paintings leads to the Sanctum Sanctorum. The painted images are all of celestial beings, saints, musicians and dancers, along with images of the 14 avatars of Shiva.\n
+The Sanctum is flanked by elaborately carved figurines of Ganga and Yamuna. Carved images of horses and soldiers adorn the exterior columns. The hall also features carved images of Natesha and Brahma, while the column at the southwest part of the hall features an image of Parvati. Many other paintings and carvings adorn the walls, columns and ceilings.\n A life-size image of Lord Veerabhadra, wielding arms and decorated with skulls is installed in the Sanctum Sanctorum. The complex also houses a separate chamber located in the eastern wing which depicts carved images of Shiva and Parvati on a boulder. A huge boulder also depicts a carved image of a muilti-hooded serpent shielding a Lingam. An image of Lord Vishnu is also installed in a separate chamber"
+   },
+   "akkamahadevi":{
+                   "place":"akkamahadevi caves",
+                   "state":"Andra Pradesh",
+                   "places":--,
+                   "hotels":--,
+                   "detials":"Akkamahadevi caves have been named after Akka Mahadevi, who was a great saint and philosopher of 12th century. She is associated with Veerashaiva Bhakti movement and is said to have contributed greatly to the movement as well as to the Kannada Bhakti literature. She has done penance here in the caves. As per legend, Akkamahadevi offered prayers to the Shivalingam inside the cave.\n
+Located at a distance of 18 km from Srisailam, Akkamahadevi Caves are the best place to see in Srisailam if you are looking for some adventure. These caves is also a popular religious shrine and is dedicated to Lord Shiva. Akkamahadevi Caves, located near the Krishna River,are naturally formed.\n
+Akkamahadevi Caves present enchanting scenic beauty and tranquil environment which is combined with a bit of adventure. Although there are many naturally formed caves in the Nallamala hill ranges; Akkamahadevi caves are one of the most captivating of all. Visiting Akka Mahadevi Caves is one of the best parts of Srisailam Tourism.\n
+As these caves are located in the forest, tourists are required to first take boat ride from Patala Ganga. which is followed by a small trek of few minutes. The boat ride to the caves is through the River Krishna; it is around 1 hour long."
+   },
+   "octopus":{
+                   "place":"octopus view point",
+                   "state":"Andra Pradesh",
+                   "places":--,
+                   "hotels":--,
+                   "detials":"Octopus View Point is one of the latest additions to the tourist attractions in Srisailam in Andhra Pradesh. The view point is located 5 km before Domalpenta and offers amazing views of the adjoining forests, enchanting gorges and the mesmerising backwaters of Krishna River. Octopus View Point has been named so because of Krishna River down below that looks like an octopus spread between the hillocks. It provides a spectacular bird’s eye view of the entire valley below. In addition to that, there is a regular safari tour conducted by the reserve that is the major highlight of the place."
+   },
+   "sakshi_ganapathi":{
+                   "place":"sakshi ganapathi temple",
+                   "state":"Andra Pradesh",
+                   "places":--,
+                   "hotels":--,
+                   "detials":"Sakshi Ganapati Temple is located on the way to Srisailam. An important part of any Srisailam tour, this temple is visited by every devotee who comes to seek blessings of Sri Mallikarjuna Swamy. Amid the panoramic background of nature, this temple is located just a few km away from the Shikaram.\n
+It is believed that a visit to Srisailam goes unrecorded if a devotee doesn’t visit Sakshi Ganapati Temple. The main deity of this temple is Lord Ganesha. The word Shakshi means the one who witnesses, which is representative of the belief that Lord Ganesha keeps a record of everyone who visits Mallikarjuna Jyotirlinga, which is then shown to Lord Shiva.\n
+The idol of Lord Ganesha is also representative of the belief. The black idol of the Lord is shown holding a book in the left hand and a stylus in the right hand as if recording the names of the pilgrims coming to this temple."
+   },
+   "bhramarambha":{
+                   "place":"sri bhramarambha mallikarjhuna temple",
+                   "state":"Andra Pradesh",
+                   "places":--,
+                   "hotels":--,
+                   "detials":"Sri Bhramaramba Mallikarjuna Temple or Srisailam Temple is a Hindu temple dedicated to the deities Shiva and Parvati, located at Srisailam in the Indian state of Andhra Pradesh.\n
+It is significant to the Hindu sects of both Shaivism and Shaktism as this temple is referred to as one of the twelve Jyotirlingas of Shiva and as one of the eighteen Shakti Pithas, centres of the Hindu Goddess. Shiva is worshiped as Mallikarjuna, and is represented by the lingam. His consort Parvati is depicted as Bhramaramba.\n
+When Shiva and Parvati decided to find suitable brides for their sons. Shiva got Buddhi (intellect), Siddhi (spiritual power), and Riddhi (prosperity) married to Ganesha.\n
+Kartikeya on his return was enraged and went away to stay alone on Mount Krauncha in Palani in the name of Kumara brahmachari. On seeing his father coming over to pacify him, he tried to move to another place, but on the request of the Devas, stayed close by. The place where Shiva and Parvati stayed came to be known as Srisailam.\nAs per Hindu legend, the presiding deity in the form of Linga (an iconic form of Shiva) was worshipped with jasmine (locally called in Telugu as Mallika), leading to the name of presiding deity as Mallikarjuna. 
+Mahashivaratri is the main festival celebrated at Srisailam Mallikarjuna Swamy temple."
+   },
+   "srishailam":{
+                   "place":"srishailam dam",
+                   "state":"Andra Pradesh",
+                   "places":--,
+                   "hotels":--,
+                   "detials":"The Srisailam project began in 1960, Initially only as a power project. After several delays, the main dam was finally completed twenty years later in 1980 July 26.\n
+ In the meantime the project was converted into a multipurpose facility with a generating capacity of 770 megawatts (1,030,000 hp) by its second stage which was completed in 1987. The dam is to provide water for an estimated 2,000 square kilometres (770 sq mi). Under the right bank branch canal 790 square kilometres (310 sq mi) in Kurnool and Kadapa districts will have assured irrigation.\n
+From the initial modest estimate of ₹38.47 crore for a power project the total cost of the multipurpose project was estimated to cross ₹1000 crore in its enlarged form. The dam has alone cost ₹404 crore together with the installation of four generating sets of 110 MW each. The right bank branch canal is estimated to cost ₹449 crore and the initial investment of ₹140 crore has been provided by the World Bank.\n
+The projected cost-benefit ratio of the project has been worked out at 1:1.91 at 10% interest on capital outlay.. In 1998 a coffer dam was over topped by flooding. The power house required repairs and did not generate power for a year. On 2 October 2009, Srisailam dam experienced a record inflow which threatened the dam."
+   },
+   "kapila":{
+                   "place":"kapila theertham",
+                   "state":"Andra Pradesh",
+                   "places":--,
+                   "hotels":--,
+                   "detials":"Kapila Theertham is a famous Saivite Temple and Theertham, located at Tirupati in the Tirupati District of Andhra Pradesh, India. The idol is believed to be installed by Kapila Muni and hence Lord Siva here is referred to as Kapileswara.\n
+The temple stands at the entrance to a mountain cave in one of the steep and vertical faces at the foot of the Tirumala hills which are part of Seshachalam Hills, where the waters of the mountain stream fall directly into Temple Pushkarini known as "Kapila Theertham". A huge stone statue of a seated bull "Nandhi", Shiva's steed, greets devotees and passersby at the entrance to the temple.\n
+The Temple and Theertham had derived its name from Kapila Muni .According to Temple Legend Kapila Muni had performed penance to Siva at this place and blissed with the Muni's devotion, Siva and Parvathi presented themselves. The Lingam is believed to be self-manifested. Kapila muni is believed to emerged from the Bilam (Cavity) in the Pushkarini(Theertham) on to the earth.\n
+The temple received very good patronage from the Kings of Vijayanagara in the 13th thru 16th centuries, especially Saluva Narasimha Deva Raya, and the eternally famous Sri Krishna Deva Raya, and some of the later rulers like Venkatapathi Raya, and Aliya Ramaraya, Sri Krishna Deva Raya's Son-in-law."
+   },
+   "ranganatha":{
+                   "place":"sri ranganatha swamy temple",
+                   "state":"Andra Pradesh",
+                   "places":--,
+                   "hotels":--,
+                   "detials":"The Sri Ranganthaswami Temple in Nellore, Andhra Pradesh, India is a Hindu temple dedicated to Lord Ranganatha a resting form of Lord Vishnu. This temple, also called Talpagiri Ranganathaswami temple or Ranganayakulu is one of the oldest temples in Nellore.\n
+It is located on the banks of the Penna River and is believed to have been constructed in the 12th century. Just before the main entrance of the temple is a huge tower, called Gaaligopuram, which literally means "wind tower". This tower is approximately 70 feet high and has 10 feet of gold plated vessels on top of it, called kalashams.\n
+The gopuram was constructed by Yeragudipati Venkatachalam panthulu. Every year during the month of March–April (which varies according to the Indian calendar) a grand festival is celebrated. These are called Brahmotsavam."
+   },
+   "kalahasti":{
+                  "place":"sri kalahasti temple",
+                  "state":"Andra Pradesh",
+                  "places":--,
+                  "hotels":--,
+                  "detials":"Situated in Chittoor, Srikalahasti Temple is popular among devotees who visit the temple along with the highly revered Tirupati Temple, which is just 36 km away. Dedicated to Lord Shiva, Kalahasti temple has immense religious importance for Hindus and was constructed in the year 1516 by Krishnadevraya, a king of the Vijayanagara empire.\n
+The elaborate structure of the Srikalahasti temple complex is a breathtaking view right from the entrance. It has intricate carvings of numerous mythological illustrations that one can explore in the divine surroundings. This magnificent temple is often reffered as the Kailasa and Kashi of the south. The temple represents one of the five elements (Pancha Bhoota) - Air or Vayu.\n
+The place has an abundance of vibrant, divine aura and has the potential to draw visitors with its ornate shrines and mesmerising beauty. Srikalahasti is an excellent example of South Indian temple architecture where highly ornamented gopurams with expansive intricately carved interiors unfold the magnificent treasures of the Dravidian style of architecture.\n
+The temple is also regarded as Rahu-Ketkshetra and Dakshina Kailasam. The inner temple was constructed around the 5th century and the outer temple was constructed in the 11th century by the Rajendra Chola I, later Chola kings and the Vijayanagara kings. Shiva in his aspect as Vayu is worshipped as Kalahasteeswara."
+   },
+   "tirupathi":{
+                  "place":"tirupathi venkateshwara temple",
+                  "state":"Andra Pradesh",
+                  "places":--,
+                  "hotels":--,
+                  "detials":"Srimad-Bhagavatam describes the history of Tirumala that during Satya yuga, Hiranyaksha, due to his exploitative activities created a situation where the earth was drowned to the bottom of the Garbhodaka ocean. At that time, the demigods approached Lord Brahma who prayed to Lord Vishnu.Lord Vishnu then appeared from the nose of Brahma in the form of Sri Varahadev. He killed Hiryanaksha and lifted the earth, ‘Bhudevi’ with His tusks, and brought her to a safe position on top of the Garbhodaka ocean.\n
+Venkateswara Temple is a landmark Vaishnavite temple situated in the hill town of Tirumala at Tirupati in Chittoor district of Andhra Pradesh, India. The Temple is dedicated to Lord Sri Venkateswara, an incarnation of Vishnu, who is believed to have appeared here to save mankind from trials and troubles of Kali Yuga. Hence the place has also got the name Kaliyuga Vaikuntham and Lord here is referred to as Kaliyuga Prathyaksha Daivam.\n
+The temple is also known by other names like Tirumala Temple, Tirupati Temple, Tirupati Balaji Temple. Lord Venkateswara is known by many other names: Balaji, Govinda, and Srinivasa."
+   },
+   "kailasagiri":{
+                  "place":"kailasagiri",
+                  "state":"Andra Pradesh",
+                  "places":--,
+                  "hotels":--,
+                  "detials":"Situated on top of a hill in Visakhapatnam, Kailasagiri Park offers a panoramic view. Kailasagiri Park got its name from the 40 feet tall statue of Shiva and Parvati located here. The main attractions here include Floral Clock, Titanic Viewpoint, Jungle Trails, Shanti Ashram and Shank Chakra Nama.\n
+It is a complete tourist destination that offers its visitors a degree of religion, adventure and joy. It is a center of tourist activities due to its serene environment and enchanting natural beauty.\nKailasagiri Park was developed by the Visakhapatnam Metropolitan Region Development Authority (VMRDA). The park is spread over 380 acres (150 ha) of land which includes vegetation and tropical trees.\n
+Kailasagiri is one of the major attractions and a popular picnic spot for all the tourists visiting the beautiful city of Vizag.Kailasagiri is also a famous place for paragliding with excellent gliding facilities. There are many eateries around this park to satisfy one's hunger.
+This beautiful hilltop is a must visit place for tourists for its breathtaking views and plethora of entertainment options.To protect the environment, VMRDA has declared the hill a plastic free zone.
+It is a fun place for all age groups as it offers you a cable car ride at a very reasonable price.
+There is a toy train that runs around the park and you can enjoy the train ride as well as the park and the amazing view."
+   },
+   "lakshminarashima":{
+                  "place":"sri varaha lakshminarashima swamy temple",
+                  "state":"Andra Pradesh",
+                  "places":--,
+                  "hotels":--,
+                  "detials":" Known as Simhachalam temple, is a Hindu temple located in the Simhachalam hills of the Eastern Ghats near the Visakhapatnam metropolis of Andhra Pradesh state , India . It is situated at a height of 300 meters and is dedicated to the " Varaha Narasimha " form of Lord Vishnu . Except on Akshaya Tritiya, this idol is covered with sandalwood on all other days due to which the idol looks like 'Shivlang'.\n
+On the holy day of Akshaya Tritiya (Vaishakh month), the beauty of Sinhachal mountain is unique. On this holy day, Lord Lakshminrisingh present here is adorned with sandalwood. It is believed that the real form of the idol of the Lord can be seen only on this day. Sinhachal area is considered to be one of the very few ancient temples in the world built in the eleventh century.\n
+It is believed that sage Pururava was once traveling by air with his wife Urvashi. During the journey, his plane got affected by some natural force and reached Sinhachal region of the south. He saw that the image of the Lord was contained in the womb of the earth. He took out this statue and cleaned the dust accumulated on it. During this time, a voice came from the sky that instead of cleaning this statue, it should be covered with sandalwood paste.\n
+He also received an order in this Akashvani that this sandalwood paste would be removed from the body of this idol only once a year, on the third day of the month of Vaishakh, and the real idol could be seen. Following Akashvani, this statue was coated with sandalwood and the coating is removed from this statue only once a year. Since then the idol of Lord Shri Lakshminrisingh Swami was installed in Sinhachal itself.\n
+The word 'Sinhachal' means mountain of lion. This mountain is considered to be the abode of Lord Narasimha, the fourth incarnation of Lord Vishnu . It is believed that Lord Narasimha had descended at this place to protect his devotee Prahlad . According to Sthal Purana, devotee Prahlad had built the first temple of Lord Narasimha at this place. Devotee Prahlad had built this temple after the killing of his father by Lord Narasimha.\n
+But after Kritayuga , this temple could not be maintained and this temple fell into ruins. Later, Pururavas of Lunar dynasty once again discovered this temple and got it rebuilt. A view of the temple's complex in which the rajagopuram and the vimana can be seen adjacent to each other."
+   },
+   "submarine":{
+                  "place":"submarine museum",
+                  "state":"Andra Pradesh",
+                  "places":--,
+                  "hotels":--,
+                  "detials":"During the Indo-Pakistani War of 1971, Kursura operated in the Arabian Sea. She was given the patrol duties at two designated areas before the war started, but was ordered to operate under two restrictions: she was not to cross demarcated shipping corridors and she could attack a target only after positive identification. The aims of her patrol were to sink any Pakistani naval warships, to sink merchant shipping when specifically ordered, and to conduct general patrol and surveillance. \n
+She started from her home port on 13 November 1971 and reached her patrol location by 18 November. She remained there until 25 November when she was shifted to a new patrol location and remained there until 30 November. On 30 November, she rendezvoused with Karanj at sea to transfer instructions and subsequently then left for Bombay and reached there by 4 December 1971. During her patrols, she encountered fair weather and monitored a number of tankers and commercial aircraft flying on international routes. She was originally intended to lay mines but the plan was later cancelled."
+   },
+}
+
+
+
+
+ 
+  
+                   
+
+
+
+
+
+  
