@@ -1,0 +1,1 @@
+A Python-based tourist guide application with a Tkinter GUI that allows users to search for places and view detailed information, including images, how to reach the destination, nearby accommodations, and historical background. It provides a simple desktop interface for travelers to explore and plan their trips more effectively.
