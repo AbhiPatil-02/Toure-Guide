@@ -91,7 +91,7 @@ The application processes user input, retrieves destination data, and displays r
 
 ## 1️⃣ Clone the Repository
 
-git clone https://github.com/yourusername/tourguide.git
+git clone https://github.com/AbhiPatil-02/Toure-Guide.git
 cd tourguide
 
 ## 2️⃣ Install Required Dependencies
