@@ -7,22 +7,22 @@ TourGuide allows travelers to search destinations and instantly view **images, h
 
 ---
 
-# 📚 Table of Contents
+## Table of Contents
 
-- [Introduction](#-introduction)
-- [Features](#-features)
-- [Technologies Used](#-technologies-used)
-- [System Architecture](#-system-architecture)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Project Structure](#-project-structure)
-- [Future Improvements](#-future-improvements)
-- [Contributing](#-contributing)
-- [License](#-license)
+- [Introduction](#introduction)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [System Architecture](#system-architecture)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Future Improvements](#future-improvements)
+- [Contributing](#contributing)
+- [License](#license)
 
 ---
 
-# 🌍 Introduction
+## Introduction
 
 Planning a trip often requires browsing multiple sources for information about destinations, accommodation, and transport.
 
@@ -40,29 +40,29 @@ Through a **simple graphical interface**, users can explore and plan trips more 
 
 ---
 
-# ✨ Features
+## Features
 
-### 🔎 Destination Search
+### Destination Search
 Users can search for different tourist destinations through the application interface.
 
-### 🖼️ Image Display
+### Image Display
 Displays images related to the selected location to help users visually explore destinations.
 
-### 🏛️ Historical Information
+### Historical Information
 Provides information about the **history and significance** of tourist locations.
 
-### 🧭 Travel Directions
+### Travel Directions
 Displays guidance on **how to reach the destination**.
 
-### 🏨 Nearby Accommodations
+### Nearby Accommodations
 Shows information about **hotels and accommodations near the location**.
 
-### 🖥️ User-Friendly GUI
+### User-Friendly GUI
 Built with **Tkinter** to provide a clean and easy-to-use desktop interface.
 
 ---
 
-# 🛠️ Technologies Used
+## Technologies Used
 
 | Technology | Purpose |
 |-----------|--------|
@@ -73,8 +73,9 @@ Built with **Tkinter** to provide a clean and easy-to-use desktop interface.
 
 ---
 
-# 🏗 System Architecture
+## System Architecture
 
+```
 User Interface (Tkinter GUI)
         │
         ▼
@@ -82,33 +83,40 @@ Application Logic (Python)
         │
         ▼
 Destination Data (Images + Information)
+```
 
 The application processes user input, retrieves destination data, and displays relevant details through the GUI.
 
 ---
 
-# ⚙️ Installation
+## Installation
 
-## 1️⃣ Clone the Repository
+### 1. Clone the Repository
 
+```bash
 git clone https://github.com/AbhiPatil-02/Toure-Guide.git
-cd tourguide
+cd Toure-Guide
+```
 
-## 2️⃣ Install Required Dependencies
+### 2. Install Required Dependencies
 
+```bash
 pip install pillow
+```
 
 Tkinter usually comes pre-installed with Python.
 
-## 3️⃣ Run the Application
+### 3. Run the Application
 
+```bash
 python main.py
+```
 
 The TourGuide GUI window will launch.
 
 ---
 
-# 🚀 Usage
+## Usage
 
 1. Launch the application.
 2. Search or select a tourist destination.
@@ -121,8 +129,9 @@ The TourGuide GUI window will launch.
 
 ---
 
-# 📁 Project Structure
+## Project Structure
 
+```
 tourguide/
 
 ├── images/               # Tourist location images
@@ -132,10 +141,11 @@ tourguide/
 ├── utils.py              # Helper functions
 ├── README.md
 └── requirements.txt
+```
 
 ---
 
-# 🔮 Future Improvements
+## Future Improvements
 
 Possible enhancements:
 
@@ -148,7 +158,7 @@ Possible enhancements:
 
 ---
 
-# 🤝 Contributing
+## Contributing
 
 Contributions are welcome!
 
@@ -163,7 +173,7 @@ Please follow clean coding practices.
 
 ---
 
-# 📄 License
+## License
 
 This project is open-source and available under the **MIT License**.
 
